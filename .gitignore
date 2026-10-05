@@ -1,0 +1,46 @@
+# Unity 生成物
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# 资源对应的 .meta 必须提交，不要忽略
+!/[Aa]ssets/**/*.meta
+
+# 自动生成 / IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.vscode/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# 打包产物 / 商店工具
+*.apk
+*.aab
+*.unitypackage
+*.app
+/[Aa]ssets/[Aa]ssetStoreTools*
+/[Aa]ssets/[Pp]lugins/[Ee]ditor/JetBrains*
+sysinfo.txt
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
